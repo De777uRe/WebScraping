@@ -1,0 +1,3 @@
+[submodule "scrape_workspace/WebScraping"]
+	path = scrape_workspace/WebScraping
+	url = https://github.com/De777uRe/WebScraping.git
